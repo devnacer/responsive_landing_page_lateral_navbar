@@ -5,7 +5,7 @@ This is a responsive landing page template with a lateral navigation bar. The la
 
 ## Demo
 
-You can view a live demo of the landing page [here](https://your-demo-link.com).
+You can view a live demo of the landing page [here](https://devnacer.github.io/responsive_landing_page_lateral_navbar/).
 
 ## Features
 
